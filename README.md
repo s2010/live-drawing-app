@@ -11,28 +11,28 @@ Here are the technologies used :
 ## Needed packages
 
 - socket.io for realtime broadcasting
-   $ npm install socket.io
+   `$ npm install socket.io`
    
 - HTML5 drawing widget
-   $ npm i -S literallycanvas
+   `$ npm i -S literallycanvas`
    
 - MongoDB object modeling tool
-   $ npm i -S mongoose
+   `$ npm i -S mongoose`
    
 - allowing it to automatically start on boot for node.js server
-   $ npm i -g forever
+   `$ npm i -g forever`
    
 -   Node.js body parsing middleware
-   $ npm i -S body-parser
+   `$ npm i -S body-parser`
    
 - MongoDB Session Storage for ExpressJS
-   $ npm i -S express-session
+   `$ npm i -S express-session`
    
 - MongoDB session store for Connect
-   $ npm i -S connect-mongo
+   `$ npm i -S connect-mongo`
    
 - Express is a minimal and flexible Node.js web application framework
-   $ npm install express --save
+   `$ npm install express --save`
    
 ## Enjoy 
    http://bashayer.hijji.info/login
