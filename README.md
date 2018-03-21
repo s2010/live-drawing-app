@@ -34,5 +34,5 @@ Here are the technologies used :
 - Express is a minimal and flexible Node.js web application framework
    `$ npm install express --save`
    
-## Try the live demo
+## Try The Live Demo
    http://bashayer.hijji.info/login
